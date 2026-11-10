@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naiko-pets.pages.dev/sitemap.xml
